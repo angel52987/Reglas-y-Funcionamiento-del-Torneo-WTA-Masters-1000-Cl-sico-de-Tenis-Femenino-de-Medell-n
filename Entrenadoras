@@ -1,0 +1,39 @@
+{
+  "_id": {
+    "$oid": "664120259ff700012d936ce5"
+  },
+  "entrenadoras_jugadoras": {
+    "Camila Ramirez": {
+      "entrenadora": "Elena Petrova",
+      "nacionalidad_entrenadora": "Rusa"
+    },
+    "Elena Fernandez": {
+      "entrenadora": "Juliana Costa",
+      "nacionalidad_entrenadora": "Brasileña"
+    },
+    "Ana Silva": {
+      "entrenadora": "Maria dos Santos",
+      "nacionalidad_entrenadora": "Portuguesa"
+    },
+    "Sophia Nguyen": {
+      "entrenadora": "Natasha Ivanova",
+      "nacionalidad_entrenadora": "Rusa"
+    },
+    "Isabel Torres": {
+      "entrenadora": "Luisa Fernández",
+      "nacionalidad_entrenadora": "Española"
+    },
+    "Lina Johansson": {
+      "entrenadora": "Hanna Andersson",
+      "nacionalidad_entrenadora": "Sueca"
+    },
+    "Natalia Gutierrez": {
+      "entrenadora": "Elena Petrova",
+      "nacionalidad_entrenadora": "Rusa"
+    },
+    "Mariana Santos": {
+      "entrenadora": "Ana Martinez",
+      "nacionalidad_entrenadora": "Mexicana"
+    }
+  }
+}
