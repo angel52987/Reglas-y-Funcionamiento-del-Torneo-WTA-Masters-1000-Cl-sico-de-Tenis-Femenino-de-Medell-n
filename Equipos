@@ -1,0 +1,15 @@
+{
+  "_id": {
+    "$oid": "66411ee19ff700012d936cdb"
+  },
+  "nacionalidades": [
+    "Colombiana",
+    "Española",
+    "Brasileña",
+    "Vietnamita",
+    "Mexicana",
+    "Sueca",
+    "Colombiana",
+    "Portuguesa"
+  ]
+}
