@@ -1,0 +1,63 @@
+{
+  "_id": {
+    "$oid": "664119a49ff700012d936ccf"
+  },
+  "Deportistas": [
+    {
+      "nombre": "Camila Ramirez",
+      "edad": 25,
+      "genero": "Femenino",
+      "brazo_dominante": "Derecho",
+      "nacionalidad": "Colombiana"
+    },
+    {
+      "nombre": "Elena Fernandez",
+      "edad": 29,
+      "genero": "Femenino",
+      "brazo_dominante": "Izquierdo",
+      "nacionalidad": "Española"
+    },
+    {
+      "nombre": "Ana Silva",
+      "edad": 22,
+      "genero": "Femenino",
+      "brazo_dominante": "Derecho",
+      "nacionalidad": "Brasileña"
+    },
+    {
+      "nombre": "Sophia Nguyen",
+      "edad": 31,
+      "genero": "Femenino",
+      "brazo_dominante": "Derecho",
+      "nacionalidad": "Vietnamita"
+    },
+    {
+      "nombre": "Isabel Torres",
+      "edad": 18,
+      "genero": "Femenino",
+      "brazo_dominante": "Izquierdo",
+      "nacionalidad": "Mexicana"
+    },
+    {
+      "nombre": "Lina Johansson",
+      "edad": 36,
+      "genero": "Femenino",
+      "brazo_dominante": "Derecho",
+      "nacionalidad": "Sueca"
+    },
+    {
+      "nombre": "Natalia Gutierrez",
+      "edad": 27,
+      "genero": "Femenino",
+      "brazo_dominante": "Izquierdo",
+      "nacionalidad": "Colombiana"
+    },
+    {
+      "nombre": "Mariana Santos",
+      "edad": 20,
+      "genero": "Femenino",
+      "brazo_dominante": "Derecho",
+      "nacionalidad": "Portuguesa"
+    }
+  ]
+}
