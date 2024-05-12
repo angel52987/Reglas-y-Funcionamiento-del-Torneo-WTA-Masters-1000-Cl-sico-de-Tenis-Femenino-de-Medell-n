@@ -1,0 +1,54 @@
+{
+  "_id": {
+    "$oid": "66411e6e9ff700012d936cd6"
+  },
+  "encuentros": [
+    {
+      "jugadora1": "Camila Ramirez",
+      "jugadora2": "Elena Fernandez",
+      "ganador": "Elena Fernandez",
+      "sets_ganados_jugadora1": 1,
+      "sets_ganados_jugadora2": 2
+    },
+    {
+      "jugadora1": "Ana Silva",
+      "jugadora2": "Sophia Nguyen",
+      "ganador": "Ana Silva",
+      "sets_ganados_jugadora1": 2,
+      "sets_ganados_jugadora2": 0
+    },
+    {
+      "jugadora1": "Isabel Torres",
+      "jugadora2": "Lina Johansson",
+      "ganador": "Isabel Torres",
+      "sets_ganados_jugadora1": 2,
+      "sets_ganados_jugadora2": 1
+    },
+    {
+      "jugadora1": "Natalia Gutierrez",
+      "jugadora2": "Mariana Santos",
+      "ganador": "Natalia Gutierrez",
+      "sets_ganados_jugadora1": 2,
+      "sets_ganados_jugadora2": 0
+    }
+  ],
+  "finalistas": [
+    {
+      "jugadora": "Elena Fernandez",
+      "sets_ganados": 1
+    },
+    {
+      "jugadora": "Ana Silva",
+      "sets_ganados": 2
+    },
+    {
+      "jugadora": "Isabel Torres",
+      "sets_ganados": 2
+    },
+    {
+      "jugadora": "Natalia Gutierrez",
+      "sets_ganados": 2
+    }
+  ],
+  "ganador_final": "Natalia Gutierrez"
+}
