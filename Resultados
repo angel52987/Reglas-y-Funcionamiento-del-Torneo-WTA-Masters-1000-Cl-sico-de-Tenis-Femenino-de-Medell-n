@@ -1,0 +1,58 @@
+{
+  "_id": {
+    "$oid": "66411f359ff700012d936cdf"
+  },
+  "resultados": [
+    {
+      "encuentro": 1,
+      "jugadora1": "Camila Ramirez",
+      "sets_ganados_jugadora1": 1,
+      "jugadora2": "Elena Fernandez",
+      "sets_ganados_jugadora2": 2,
+      "ganador": "Elena Fernandez"
+    },
+    {
+      "encuentro": 2,
+      "jugadora1": "Ana Silva",
+      "sets_ganados_jugadora1": 2,
+      "jugadora2": "Sophia Nguyen",
+      "sets_ganados_jugadora2": 0,
+      "ganador": "Ana Silva"
+    },
+    {
+      "encuentro": 3,
+      "jugadora1": "Isabel Torres",
+      "sets_ganados_jugadora1": 2,
+      "jugadora2": "Lina Johansson",
+      "sets_ganados_jugadora2": 1,
+      "ganador": "Isabel Torres"
+    },
+    {
+      "encuentro": 4,
+      "jugadora1": "Natalia Gutierrez",
+      "sets_ganados_jugadora1": 2,
+      "jugadora2": "Mariana Santos",
+      "sets_ganados_jugadora2": 0,
+      "ganador": "Natalia Gutierrez"
+    }
+  ],
+  "finalistas": [
+    {
+      "jugadora": "Elena Fernandez",
+      "sets_ganados": 1
+    },
+    {
+      "jugadora": "Ana Silva",
+      "sets_ganados": 2
+    },
+    {
+      "jugadora": "Isabel Torres",
+      "sets_ganados": 2
+    },
+    {
+      "jugadora": "Natalia Gutierrez",
+      "sets_ganados": 2
+    }
+  ],
+  "ganador_final": "Natalia Gutierrez"
+}
