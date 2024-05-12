@@ -1,0 +1,107 @@
+{
+  "_id": {
+    "$oid": "66411cce9ff700012d936cd2"
+  },
+  "arbitros_silla": [
+    {
+      "nombre": "Laura Martínez",
+      "nacionalidad": "Española"
+    },
+    {
+      "nombre": "Sophie Dubois",
+      "nacionalidad": "Francesa"
+    },
+    {
+      "nombre": "Elena Petrov",
+      "nacionalidad": "Rusa"
+    },
+    {
+      "nombre": "Ana Cardoso",
+      "nacionalidad": "Portuguesa"
+    },
+    {
+      "nombre": "Isabella da Silva",
+      "nacionalidad": "Brasileña"
+    },
+    {
+      "nombre": "Aisha Khan",
+      "nacionalidad": "Pakistani"
+    },
+    {
+      "nombre": "Yuki Tanaka",
+      "nacionalidad": "Japonesa"
+    },
+    {
+      "nombre": "Lina Gutierrez",
+      "nacionalidad": "Colombiana"
+    }
+  ],
+  "jueces_linea": [
+    {
+      "nombre": "Anna Müller",
+      "nacionalidad": "Alemana"
+    },
+    {
+      "nombre": "Sophia Rossi",
+      "nacionalidad": "Italiana"
+    },
+    {
+      "nombre": "Maria Fernandes",
+      "nacionalidad": "Portuguesa"
+    },
+    {
+      "nombre": "Olga Ivanova",
+      "nacionalidad": "Rusa"
+    },
+    {
+      "nombre": "Fatima Ali",
+      "nacionalidad": "Pakistani"
+    },
+    {
+      "nombre": "Elena Kovač",
+      "nacionalidad": "Croata"
+    },
+    {
+      "nombre": "Hannah Smith",
+      "nacionalidad": "Británica"
+    },
+    {
+      "nombre": "Leila Maalouf",
+      "nacionalidad": "Libanesa"
+    },
+    {
+      "nombre": "Marta López",
+      "nacionalidad": "Colombiana"
+    },
+    {
+      "nombre": "Sophie Dupont",
+      "nacionalidad": "Francesa"
+    },
+    {
+      "nombre": "Yasmin Patel",
+      "nacionalidad": "India"
+    },
+    {
+      "nombre": "Larissa Souza",
+      "nacionalidad": "Brasileña"
+    }
+  ],
+  "arbitros_silla_linea": [
+    {
+      "nombre": "Nina Popova",
+      "nacionalidad": "Rusa"
+    },
+    {
+      "nombre": "Sofia dos Santos",
+      "nacionalidad": "Portuguesa"
+    },
+    {
+      "nombre": "Leila Aliyeva",
+      "nacionalidad": "Azerbaiyana"
+    },
+    {
+      "nombre": "Yan Li",
+      "nacionalidad": "China"
+    }
+  ]
+}
